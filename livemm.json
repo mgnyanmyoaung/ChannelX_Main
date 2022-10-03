@@ -1,0 +1,335 @@
+[ 
+     { 
+       "id" : "mm_1", 
+       "name" : "Maharbawdi", 
+       "image_url" : "https://static.wikia.nocookie.net/logopedia/images/8/8b/Mahar_bawdi_TV.png/revision/latest/scale-to-width-down/340?cb=20191211065314", 
+       "data_url" : "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_2", 
+       "name" : "Channel - 7", 
+       "image_url" : "https://www.forevergroup.com.mm/assets/cache/images/channel/channel7-200x200-8e6.png", 
+       "data_url" : "https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_3", 
+       "name" : "MRTV - 4", 
+       "image_url" : "https://pbs.twimg.com/profile_images/1535482901/1-mrtv-4_400x400.jpg", 
+       "data_url" : "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_4", 
+       "name" : "Mahar", 
+       "image_url" : "https://play-lh.googleusercontent.com/N6SC8p7sjbw6E68rtljKcI2iyPq5wZk9oUGYuh7DreW-4AZsUFwiv7KDnxP59QxbKoU", 
+       "data_url" : "https://tv.mahar.live/mahar/website.stream/mahar/website2/chunks.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+  
+     { 
+       "id" : "mm_5", 
+       "name" : "Channel K ", 
+       "image_url" : "http://www.myanmartvchannel.com/assets/images/channel/channelk.jpg", 
+       "data_url" : "https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+  
+     { 
+       "id" : "mm_6", 
+       "name" : "MWD ", 
+       "image_url" : "https://pbs.twimg.com/profile_images/2518099812/ogpxiyy659mwls0bdqu7.jpeg", 
+       "data_url" : "http://203.81.84.130/hls/mwd/index.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_7", 
+       "name" : "DVB", 
+       "image_url" : "https://www.burmalink.org/wp-content/uploads/2014/01/DVB_logo_sq.jpg", 
+       "data_url" : "https://stream-04.sg1.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmoqf5N1TnA8_SEsC7cYhz4)/dm/3/x7x7str/s/live-1.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_8", 
+       "name" : "MRTV ", 
+       "image_url" : "https://www.abu.org.my/wp-content/uploads/2019/04/mrtv.png", 
+       "data_url" : "http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_9", 
+       "name" : "Mizzima", 
+       "image_url" : "https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1412501099/pa5y7i8lams4w5yywz3z.png", 
+       "data_url" : "https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_standard/index.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_10", 
+       "name" : "MNTV", 
+       "image_url" : "https://yt3.ggpht.com/ytc/AAUvwnh-jPePPj-xU6QlLDAc_Jp2K3cMN5VmDTSxi2uC=s900-c-k-c0x00ffffff-no-rj", 
+       "data_url" : "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_standard/index.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+  
+     { 
+       "id" : "mm_11", 
+       "name" : "MRTV Entertainment", 
+       "image_url" : "https://yt3.ggpht.com/ytc/AAUvwnjWWIGFLY4RSP9W8M9k59pzVTDdztbB7LAC0ih0hQ=s900-c-k-c0x00ffffff-no-rj", 
+       "data_url" : "https://edge-stream-07.otv.co.th./livestream/MITV.stream/chunklist.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_12", 
+       "name" : "5 Plus", 
+       "image_url" : "https://2.bp.blogspot.com/-e06_K4LR-w0/WXD9Np-00UI/AAAAAAAAEG4/DHe0qj5VqXU0MyKgLRmyA3xeVcM4XguuwCLcBGAs/s1600/5_Plus.jpg", 
+       "data_url" : "https://stream.myanmartvchannels.com:999/website-5pluschannelsd/website-5pluschannelsd/chunks.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_13", 
+       "name" : "Channel - 9", 
+       "image_url" : "https://www.mmtvchannels.com/assets/images/channeliconb/channel9.jpg", 
+       "data_url" : "http://edge-stream-07.otv.co.th/livestream/Channel9.stream/chunklist_w1808693135.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+  
+     { 
+       "id" : "mm_14", 
+       "name" : "MWD Variety", 
+       "image_url" : "https://yt3.ggpht.com/ytc/AAUvwngmRLQZa1KuXXMtvtGI1jnqzJRkc7YHgb8LXdb8=s900-c-k-c0x00ffffff-no-rj", 
+       "data_url" : "http://203.81.84.130/hls/mwd_variety/index.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_15", 
+       "name" : "MWD Series", 
+       "image_url" : "https://www.mmtvchannels.com/assets/images/channeliconb/mwd1.jpg", 
+       "data_url" : "http://203.81.84.130/hls/mwd_serie/index.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_17", 
+       "name" : "MWD Family", 
+       "image_url" : "https://www.mmtvchannels.com/assets/images/channeliconb/mwd1.jpg", 
+       "data_url" : "http://203.81.84.130/hls/mwd_family/index.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_16", 
+       "name" : "MWD Document", 
+       "image_url" : "https://www.mmtvchannels.com/assets/images/channeliconb/mwddoc.jpg", 
+       "data_url" : "http://203.81.84.130/hls/mwd_document/index.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_17", 
+       "name" : "MWD Shopping", 
+       "image_url" : "https://www.lyngsat.com/logo/tv/mm/mwd-shopping-mm.png", 
+       "data_url" : "http://203.81.84.130/hls/mwd_shopping/index.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_18", 
+       "name" : "MWD Education ", 
+       "image_url" : "https://www.mmtvchannels.com/assets/images/channeliconb/mwdedu.jpg", 
+       "data_url" : "http://203.81.84.130/hls/mwd_movie/index.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_19", 
+       "name" : "Fortune ", 
+       "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-80x80-e0a.jpg", 
+       "data_url" : "https://d39q34kqnktegw.cloudfront.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_20", 
+       "name" : "YTV  ", 
+       "image_url" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/ytv-80x80-e0a.jpg", 
+       "data_url" : "https://stream.myanmartvchannels.com:999/website-ytvchannelhd/website-ytvchannelhd/chunks.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_21", 
+       "name" : "Hluttaw", 
+       "image_url" : "https://lh3.googleusercontent.com/proxy/hT_7P5NytPf58iNCFJ8JgH2NZmA8lNuOzMEaYPDqYPXVNFMp2tPSoFJnYTd2OL5gM-GgWZrQCPSON4KiiD4g2wTnrj5ICEzdV5SPitPwVb3PBxWTdUUXiagcoL3j_RWs2Q", 
+       "data_url" : "http://edge-stream-07.otv.co.th.:80/livestream/Hluttaw.stream/playlist.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+     { 
+       "id" : "mm_22", 
+       "name" : "MRTV NRC ", 
+       "image_url" : "https://www.mmtvchannels.com/assets/images/channeliconb/nrc.jpg", 
+       "data_url" : "https://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist.m3u8", 
+       "type" : "tv", 
+       "country" : "my" 
+     }, 
+  
+     { 
+       "id" : "mm_23", 
+       "name" : "White Channel", 
+       "image_url" : "https://i.imgur.com/lK52fpm.png", 
+       "data_url" : "http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_24", 
+       "name" : "TPTV", 
+       "image_url" : "http://live.parliament.go.th/images/coronationceremony/logo.png", 
+       "data_url" : "http://49.231.66.85:1935/live/tptv/playlist.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_25", 
+       "name" : "Thairath TV 32", 
+       "image_url" : "https://i.imgur.com/0AiJcrC.png", 
+       "data_url" : "https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_26", 
+       "name" : "Thairath TV 32", 
+       "image_url" : "https://i.imgur.com/0AiJcrC.png", 
+       "data_url" : "https://live.thairath.co.th/trtv2/playlist.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_27", 
+       "name" : "Thai PBS 3", 
+       "image_url" : "https://i.imgur.com/b4l0w2m.png", 
+       "data_url" : "https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_28", 
+       "name" : "Thai PBS 3", 
+       "image_url" : "https://i.imgur.com/b4l0w2m.png", 
+       "data_url" : "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_29", 
+       "name" : "Thai PBS 3", 
+       "image_url" : "https://i.imgur.com/b4l0w2m.png", 
+       "data_url" : "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_30", 
+       "name" : "TGN", 
+       "image_url" : "https://i.imgur.com/aNExu5R.jpg", 
+       "data_url" : "https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_31", 
+       "name" : "Suwannabhumi TV", 
+       "image_url" : "https://i.imgur.com/wVednTk.png", 
+       "data_url" : "http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_32", 
+       "name" : "Smart SME Channel", 
+       "image_url" : "https://i.imgur.com/dauuWLp.png", 
+       "data_url" : "https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_33", 
+       "name" : "TGN", 
+       "image_url" : "https://i.imgur.com/aNExu5R.jpg", 
+       "data_url" : "https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_34", 
+       "name" : "News 1", 
+       "image_url" : "https://news1live.com/images/social-share-logo.png", 
+       "data_url" : "http://news1.live14.com/stream/news1.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_35", 
+       "name" : "NBT Central", 
+       "image_url" : "https://i.imgur.com/Glr0CJE.png", 
+       "data_url" : "http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_36", 
+       "name" : "https://i.imgur.com/QZ2WcZl.jpg", 
+       "image_url" : "https://i.imgur.com/aNExu5R.jpg", 
+       "data_url" : "http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_37", 
+       "name" : "MCOT 30", 
+       "image_url" : "https://i.imgur.com/bYMtfRn.png", 
+       "data_url" : "http://183.182.100.184/live/mcothd/playlist.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_38", 
+       "name" : "M Channel", 
+       "image_url" : "https://i.imgur.com/KEbokdx.jpg", 
+       "data_url" : "http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_39", 
+       "name" : "CTB", 
+       "image_url" : "http://ctbtv.co.th/indexctb/ctbtv1.png", 
+       "data_url" : "http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     }, 
+     { 
+       "id" : "mm_40", 
+       "name" : "Channel 8 Thailand", 
+       "image_url" : "https://i.imgur.com/hzdMjA1.jpg", 
+       "data_url" : "http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8", 
+       "type" : "tv", 
+       "country" : "th" 
+     } 
+   ] 
