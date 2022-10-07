@@ -91,9 +91,4 @@
         "action": "http://www.zegomovie.com/Videos/PaintedSkin/index.m3u8",
         "thumbnail": "https://add.pics/images/2022/10/07/6332874ac5a2c.jpg"
     },
-    {
-"title":"The Prodigal Son",
-    "code":"m3u8",
-    "action":"http://www.zegomovie.com/Videos/TheProdigalSon/index.m3u8",
-    "thumbnail":"https://add.pics/images/2022/10/07/630477d0356f9.jpg"},
-]
+    ]
